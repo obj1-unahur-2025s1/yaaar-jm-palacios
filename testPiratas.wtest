@@ -1,0 +1,7 @@
+import piratas.*
+
+describe "tests piratas" {
+
+  test "pepita has initial energy" {}
+
+}
